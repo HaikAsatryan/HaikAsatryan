@@ -43,10 +43,10 @@ Full catalogue: [@PandaTechAM](https://github.com/PandaTechAM) on GitHub, [HaikA
 ## GitHub Stats
 
 <a href="https://github.com/HaikAsatryan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HaikAsatryan&show_icons=true&hide=issues&hide_rank=true&card_width=450&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HaikAsatryan&show_icons=true&hide=issues&hide_rank=true&bg_color=00000000&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="GitHub stats" />
 </a>
 <a href="https://github.com/HaikAsatryan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaikAsatryan&layout=compact&hide=html,css,scss&card_width=320&theme=transparent" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaikAsatryan&layout=compact&hide=html,css,scss&bg_color=00000000&hide_border=true&title_color=58a6ff&text_color=8b949e" alt="Top languages" />
 </a>
 
 ## Selected Writing
