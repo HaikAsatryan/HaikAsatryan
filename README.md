@@ -40,15 +40,6 @@ I lead a 21-person software team across backend, mobile, DevOps, QA, and design,
 
 Full catalogue: [@PandaTechAM](https://github.com/PandaTechAM) on GitHub, [HaikAsatryan on NuGet](https://www.nuget.org/profiles/HaikAsatryan).
 
-## GitHub Stats
-
-<a href="https://github.com/HaikAsatryan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HaikAsatryan&show_icons=true&hide=issues&hide_rank=true&bg_color=00000000&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="GitHub stats" />
-</a>
-<a href="https://github.com/HaikAsatryan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaikAsatryan&layout=compact&hide=html,css,scss&bg_color=00000000&hide_border=true&title_color=58a6ff&text_color=8b949e" alt="Top languages" />
-</a>
-
 ## Selected Writing
 
 - [PostgreSQL write performance: what the benchmarks won't tell you](https://dev.to/haikasatryan/postgresql-write-performance-what-the-benchmarks-wont-tell-you-mm7) on Dev.to
