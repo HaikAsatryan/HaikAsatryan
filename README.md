@@ -42,6 +42,7 @@ Full catalogue: [@PandaTechAM](https://github.com/PandaTechAM) on GitHub, [HaikA
 
 ## Selected Writing
 
+- [I'm a .NET developer. I spent two months benchmarking Go vs C#, and I didn't like the answer](https://dev.to/haikasatryan/im-a-net-developer-i-spent-two-months-benchmarking-go-vs-c-and-i-didnt-like-the-answer-31fm) on Dev.to
 - [PostgreSQL write performance: what the benchmarks won't tell you](https://dev.to/haikasatryan/postgresql-write-performance-what-the-benchmarks-wont-tell-you-mm7) on Dev.to
 
 ## Connect
